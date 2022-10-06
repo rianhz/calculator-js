@@ -4,9 +4,10 @@
 }
 
 body {
-  background-image: url(top-view-black-calculator-female-hands-black-table-free-space.jpg);
+  background-image: url(bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .wrapper {
