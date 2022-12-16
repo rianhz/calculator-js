@@ -1,6 +1,7 @@
 let outputscreen = document.getElementById('screen-viewer');
-function show(num) {
-  outputscreen.value += num;
+function show(e) {
+  outputscreen.value += e;
+  console.log(e);
 }
 function result() {
   try {
